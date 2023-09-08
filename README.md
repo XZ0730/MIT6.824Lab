@@ -2,7 +2,8 @@
 
 
 
-![lab2-guide](C:\Users\romeo\Pictures\GoMoe\lab2-guide.png)
+
+![lab2-guide](https://github.com/XZ0730/MIT6.824Lab/assets/94458213/b2ac5bf1-1346-4d14-83b2-174a3365e20c)
 
 
 
@@ -18,13 +19,15 @@
 
 Pa:
 
-![lab2-main](C:\Users\romeo\Pictures\GoMoe\lab2-main.png)
+
+![lab2-main](https://github.com/XZ0730/MIT6.824Lab/assets/94458213/d8b7b8d9-8568-42ac-a8d0-592609181f6d)
 
 eg:Pa是主流程图，不包含rpc内容
 
 Pb:
 
-![lab2-reqvote](C:\Users\romeo\Pictures\GoMoe\lab2-reqvote.png)
+
+![lab2-reqvote](https://github.com/XZ0730/MIT6.824Lab/assets/94458213/7df5592d-9dbe-4733-a056-9f9b2ddafa28)
 
 eg:reqvote请求流程
 
@@ -34,7 +37,8 @@ eg:reqvote请求流程
 
 - 锁问题
 
-  ![lab2-lock](C:\Users\romeo\Pictures\GoMoe\lab2-lock.png)
+
+![lab2-lock](https://github.com/XZ0730/MIT6.824Lab/assets/94458213/d9eeab52-22c6-43cb-84c7-34ecd44d0854)
 
 - timer问题
 
