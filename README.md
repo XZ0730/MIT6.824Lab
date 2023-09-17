@@ -4,7 +4,8 @@
 
 ### mapreduce:
 
-​		![lab1](C:\Users\romeo\Pictures\GoMoe\lab1.png)
+​		![lab1](https://github.com/XZ0730/MIT6.824Lab/assets/94458213/698fd86a-b4bb-41db-9d28-e9ec4cd19c85)
+
 
 figure1:  这边做一个对这张图的解释--->
 
@@ -24,7 +25,8 @@ figure1:  这边做一个对这张图的解释--->
 
 ​	reduce同上，直到变成阶段状态alldone，worker取任务时通知其退出
 
-![lab2-phase](C:\Users\romeo\Pictures\GoMoe\lab1-phase.png)
+![lab1-phase](https://github.com/XZ0730/MIT6.824Lab/assets/94458213/c147dcf4-5493-49fe-9f95-f3faedd337b9)
+
 
 ​	然后就是worker，worker的功能是去执行具体的map/reduce的逻辑，worker其实无差别，真正的差别取决于他获取到的任务的类型，根据任务类型执行不同的逻辑，paper中提到的除了map，reduce两种任务类型，还可以增加两种，一种是wait任务类型，一种是exit任务类型，这个下面另做解释。
 
